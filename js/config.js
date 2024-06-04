@@ -1,4 +1,4 @@
-let day = 3;
+let day = prompt("Kunni kiriting");
 let dayName;
 switch (day) {
     case 0:
